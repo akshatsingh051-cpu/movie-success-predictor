@@ -37,6 +37,8 @@ A full-stack machine learning application that predicts whether a movie will be 
 ---
 
 ## 📁 Project Structure
+
+```
 movie-success-predictor/
 │
 ├── app.py
@@ -48,12 +50,13 @@ movie-success-predictor/
 ├── Procfile
 │
 ├── templates/
-│ └── index.html
+│   └── index.html
 │
 ├── static/
-│ ├── style.css
-│ ├── importance.png
-│ └── confusion.png
+│   ├── style.css
+│   ├── importance.png
+│   └── confusion.png
+```
 
 
 ---
